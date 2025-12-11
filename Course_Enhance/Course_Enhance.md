@@ -802,7 +802,8 @@ ORDER BY times;
 # **模块Ⅱ：CS_213(H)课程增强**
 
 
-
+## **工作0**：PPT审改
+### https://github.com/MasenWen/Update-Database/blob/master/Review_Notes/Review_Notes.md
 
 ## **工作1**：走访学长、查阅网评、对比课件
 
@@ -815,7 +816,7 @@ ORDER BY times;
   * 有评价说："竟然不知网上有现成的仓库"可供参考
   * 于是我想：网上资源有必要加一些引导
 * **对比课件**
-  * 但我实际看过了所有的课件 平心而论 **对于原理的覆盖是很到位的** 
+  * 实际看过了所有的课件 平心而论 **对于原理的覆盖是很到位的** 
   * 于是我想：或许缺乏的只是**一点引导**
 
 
@@ -976,7 +977,7 @@ https://github.com/RushDB-Lab/miniob-RushDB
 
 
 **Lab文件链接**(基于JupyterNoteBook Graphvizonline实现):
-
+https://github.com/MasenWen/Update-Database/blob/master/SQL_Injection/SQL_Injection/SQL_Injection.md
 
 ### **Lab文件内容**(建议**直接看文件**):
 
@@ -1008,6 +1009,8 @@ https://github.com/RushDB-Lab/miniob-RushDB
 * 直观简单的理论部分* 和其他Lab一样基于SQL就可以实现
 * 阅读材料便于学生自学
 * **Lab文件链接**(基于JupyterNoteBook Graphvizonline实现):
+* https://github.com/MasenWen/Update-Database/blob/master/SQL_Optimization/SQL_Optimization/SQL_Optimization.md
+
 * **Lab文件内容**(建议**直接看文件**)
 
 #### Lab包含：5个基于SQL EXPLAIN的实验
@@ -1068,7 +1071,7 @@ Storage课程配套Lab TriggerLab可以推移和Trigger课程对齐
 和其他Lab一样基于SQL就可以实现
 阅读材料便于学生自学
 **Lab文件链接**(基于JupyterNoteBook Graphvizonline实现):
-
+https://github.com/MasenWen/Update-Database/blob/master/Page_Storage/Page_Storage/Page_Storage.md
 
 ### **Lab文件内容**(建议**直接看文件**):
 
@@ -1136,7 +1139,7 @@ Storage课程配套Lab TriggerLab可以推移和Trigger课程对齐
 鉴于课程决定了添加openGauss的教学 对课程做以下两点补充
 ### 1.openGauss介绍: 
 包括openGauss定位 介绍文件 课程中会涉及的特点 语法特性 与PostgreSQL的不同
- Lab材料链接: [Introduce OpenGauss](...)
+ Lab材料链接: https://github.com/MasenWen/Update-Database/blob/master/OpenGauss/OpenGauss/OpenGauss.md
 ![image.png](3da23650-5629-4111-af45-301ee9a16964.png)
 
 
@@ -1276,7 +1279,7 @@ mydb=#
 
 
 
-### Lab材料链接: [Download OpenGauss](...)
+### Lab材料链接: https://github.com/MasenWen/Update-Database/blob/master/OpenGauss_Docker/OpenGauss_Docker/OpenGauss_Docker.md
 
 ![image.png](b53feb9d-b506-4970-a330-4918be97edcb.png)
 
