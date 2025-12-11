@@ -1,0 +1,9 @@
+These two .sql are tested to be able to use.
+这两个文件保证可以添加核心的四个表。
+However, you have to set the database name and schema name correctly which may cause some trouble.
+必须将数据库的名称和schema设为默认的postgres和public。
+If the database tell you that some table is missing, run this .sql multiple times and it will work as the sequence may be wrong in some conditions.
+一个可能出现的问题是报错缺少部分表（输出.sql时没有控制顺序）但是有部分内容被成功插入了，可以通过多运行几次这张表来弥补这个顺序问题。
+Other problems are obsecure.
+还有一些无关紧要的报错
+[2025-12-12 00:50:11] 摘要: 在 1分钟9秒887毫秒中196,789/196,789 条语句已执行, 197条失败 (文件中有 24,820,933 个符号)
